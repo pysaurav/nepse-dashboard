@@ -1,0 +1,194 @@
+﻿Symbol,Name,temp,temp,temp,Sector
+ADBL,Agriculture Development Bank Limited,"30,375,000",100,"3,037,500,000.00",Commercial Banks
+CBL,Civil Bank Ltd,"20,000,000",100,"2,000,000,000.00",Commercial Banks
+CZBIL,Citizen Bank International Limited,"8,029,160",100,"8,029,160,000.00",Commercial Banks
+EBL,Everest Bank Limited,"19,725,876",100,"1,972,587,600.00",Commercial Banks
+GBIME,Global IME Bank Limited,"29,259,467",100,"2,925,946,700.00",Commercial Banks
+HBL,Himalayan Bank Limited,"33,326,999",100,"3,332,699,900.00",Commercial Banks
+KBL,Kumari Bank Limited,"24,304,628",100,"2,430,462,800.00",Commercial Banks
+LBL,Laxmi Bank Limited,"23,378,319",100,"2,337,831,900.00",Commercial Banks
+MBL,Machhapuchchhre Bank Limited,"27,755,635",100,"2,775,563,500.00",Commercial Banks
+MEGA,Mega Bank Nepal Ltd.,"23,300,000",100,"2,330,000,000.00",Commercial Banks
+NABIL,Nabil Bank Limited,"36,552,621",100,"3,655,262,100.00",Commercial Banks
+NBB,Nepal Bangladesh Bank Limited,"24,325,706",100,"2,432,570,600.00",Commercial Banks
+NBL,Nepal Bank Limited,"40,000,000",100,"4,000,000,000.00",Commercial Banks
+NCCB,Nepal Credit And Commercial Bank Limited,"14,677,110",100,"1,467,711,000.00",Commercial Banks
+NIB,Nepal Investment Bank Limited,"47,665,297",100,"4,766,529,700.00",Commercial Banks
+NICA,NIC Asia Bank Ltd.,"26,582,847",100,"2,658,284,700.00",Commercial Banks
+NMB,NMB Bank Limited,"20,000,000",100,"2,000,000,000.00",Commercial Banks
+PCBL,Prime Commercial Bank Ltd.,"25,744,458",100,"2,574,445,800.00",Commercial Banks
+SANIMA,Sanima Bank Limited,"25,499,681",100,"2,549,968,100.00",Commercial Banks
+SBI,Nepal SBI Bank Limited,"26,482,515",100,"2,648,251,500.00",Commercial Banks
+SBL,Siddhartha Bank Limited,"20,311,800",100,"2,031,180,000.00",Commercial Banks
+SCB,Standard Chartered Bank Limited,"22,432,190",100,"2,243,219,000.00",Commercial Banks
+SRBL,Sunrise Bank Limited,"22,366,500",100,"2,236,650,000.00",Commercial Banks
+CCBL,Century Commercial Bank Ltd.,"20,000,000",100,"2,000,000,000.00",Commercial Banks
+PRVU,Prabhu Bank Limited,0,100,0,Commercial Banks
+RBB,Rastriya Banijya Bank Limited,0,0,0,Commercial Banks
+BOKL,Bank of Kathmandu Ltd.,0,100,0,Commercial Banks
+CORBL,Corporate Development Bank Limited,"2,000,000",100,"200,000,000.00",Development Banks
+EDBL,Excel Development Bank Ltd.,"1,500,000",100,"150,000,000.00",Development Banks
+GBBL,Garima Bikas Bank Limited,"4,488,000",100,"448,800,000.00",Development Banks
+JBBL,Jyoti Bikas Bank Limited,0,100,0,Development Banks
+KRBL,Karnali Development Bank Limited,"800,000",100,"80,000,000.00",Development Banks
+MDB,Miteri Development Bank Limited,"1,300,147",100,"130,014,700.00",Development Banks
+MNBBL,Muktinath Bikas Bank Ltd.,"5,990,250",100,"599,025,000.00",Development Banks
+NABBC,Narayani Development Bank Limited,"437,355",100,"43,735,500.00",Development Banks
+SADBL,Shangrila Development Bank Ltd.,"6,400,000",100,"640,000,000.00",Development Banks
+SHINE,Shine Resunga Development Bank Ltd.,"6,333,300",100,"633,330,000.00",Development Banks
+SINDU,Sindhu Bikash Bank Ltd,"1,000,000",100,"100,000,000.00",Development Banks
+GRDBL,Green Development Bank Ltd.,0,100,0,Development Banks
+MLBL,Mahalaxmi Bikas Bank Ltd.,0,100,0,Development Banks
+LBBL,Lumbini Bikas Bank Ltd.,0,100,0,Development Banks
+KSBBL,Kamana Sewa Bikas Bank Limited,0,100,0,Development Banks
+SAPDBL,Saptakoshi Development Bank Ltd,0,100,0,Development Banks
+CFCL,Central Finance Co. Ltd.,"1,846,610",100,"184,661,000.00",Finance
+GFCL,Goodwill Finance Co. Ltd.,"3,299,458",100,"329,945,800.00",Finance
+GMFIL,Guheshowori Merchant Bank & Finance Co. Ltd.,"2,552,254",100,"255,225,400.00",Finance
+ICFC,ICFC Finance Limited,"4,263,547",100,"426,354,700.00",Finance
+JFL,Janaki Finance Ltd.,"2,486,250",100,"248,625,000.00",Finance
+MFIL,Manjushree Finance Ltd.,"2,000,000",100,"200,000,000.00",Finance
+MPFL,Multipurpose Finance Company Limited,"287,500",100,"28,750,000.00",Finance
+NFS,Nepal Finance Ltd.,"1,359,599",100,"135,959,900.00",Finance
+PFL,Pokhara Finance Ltd.,"3,289,671",100,"328,967,100.00",Finance
+PROFL,Progressive Finance Limited,"1,200,000",100,"120,000,000.00",Finance
+SIFC,Shree Investment Finance Co. Ltd.,"1,760,000",100,"176,000,000.00",Finance
+UFL,United Finance Ltd.,"4,032,187",100,"403,218,700.00",Finance
+RLFL,Reliance Finance Ltd.,"3,200,000",100,"320,000,000.00",Finance
+GUFL,Gurkhas Finance Ltd.,0,100,0,Finance
+BFC,Best Finance Company Ltd.,0,100,0,Finance
+SFCL,Samriddhi Finance Company Limited,0,100,0,Finance
+OHL,Oriental Hotels Limited,"5,500,000",100,"550,000,000.00",Hotels and Tourism
+SHL,Soaltee Hotel Limited,"42,122,067",10,"421,220,670.00",Hotels and Tourism
+TRH,Taragaon Regency Hotel Limited,"7,449,875",100,"744,987,500.00",Hotels and Tourism
+CGH,Chandragiri Hills Limited,0,100,0,Hotels and Tourism
+AHPC,Arun Valley Hydropower Development Co. Ltd.,"7,710,846",100,"771,084,600.00",HydroPower
+BPCL,Butwal Power Company Limited,"16,921,495",100,"1,692,149,500.00",HydroPower
+CHCL,Chilime Hydropower Company Limited,"27,256,320",100,"2,725,632,000.00",HydroPower
+NHPC,National Hydro Power Company Limited,"13,851,862",100,"1,385,186,200.00",HydroPower
+SHPC,Sanima Mai Hydropower Ltd.,"10,550,000",100,"1,055,000,000.00",HydroPower
+RHPC,Ridi Hydropower Development Company Ltd.,"3,300,000",100,"330,000,000.00",HydroPower
+HURJA,Himalaya Urja Bikas Company Limited,0,100,0,HydroPower
+AKPL,Arun Kabeli Power Ltd.,0,100,0,HydroPower
+BARUN,Barun Hydropower Co. Ltd.,0,100,0,HydroPower
+API,Api Power Company Ltd.,0,100,0,HydroPower
+NGPL,Ngadi Group Power Ltd.,0,100,0,HydroPower
+SJCL,SANJEN JALAVIDHYUT COMPANY LIMITED,0,100,0,HydroPower
+RHPL,RASUWAGADHI HYDROPOWER COMPANY LIMITED,0,100,0,HydroPower
+UMHL,United Modi Hydropower Ltd.,0,100,0,HydroPower
+UPCL,UNIVERSAL POWER COMPANY LTD,0,100,0,HydroPower
+SPDL,Synergy Power Development Ltd.,0,100,0,HydroPower
+KKHC,Khanikhola Hydropower Co. Ltd.,0,100,0,HydroPower
+HPPL,Himalayan Power Partner Ltd.,0,100,0,HydroPower
+DHPL,Dibyashwori Hydropower Ltd.,0,100,0,HydroPower
+MHNL,Mountain Hydro Nepal Limited,0,100,0,HydroPower
+CHL,Chhyangdi Hydropower Ltd.,0,100,0,HydroPower
+NHDL,Nepal Hydro Developers Ltd.,0,100,0,HydroPower
+RADHI,Radhi Bidyut Company Ltd,0,100,0,HydroPower
+KPCL,Kalika power Company Ltd,0,100,0,HydroPower
+RRHP,Rairang Hydropower Development Company Ltd.,0,100,0,HydroPower
+GHL,Ghalemdi Hydro Limited,0,100,0,HydroPower
+PMHPL,Panchakanya Mai Hydropower Ltd,0,100,0,HydroPower
+GLH,Greenlife Hydropower Limited,0,100,0,HydroPower
+AKJCL,Ankhu Khola Jalvidhyut Company Ltd,0,100,0,HydroPower
+LEC,Liberty Energy Company Limited,0,100,0,HydroPower
+SHEL,Singati Hydro Energy Limited,0,100,0,HydroPower
+PPCL,Panchthar Power Company Limited,0,100,0,HydroPower
+SSHL,Shiva Shree Hydropower Limited,0,100,0,HydroPower
+JOSHI,Joshi Hydropower Development Company Ltd,0,100,0,HydroPower
+UPPER,Upper Tamakoshi Hydropower Ltd,0,100,0,HydroPower
+UNHPL,Union Hydropower Limited,0,100,0,HydroPower
+HDHPC,Himal Dolakha Hydropower Company Limited,0,100,0,HydroPower
+MEN,Mountain Energy Nepal Limited,0,100,0,HydroPower
+UMRH,United IDI Mardi RB Hydropower Limited.,0,100,0,HydroPower
+RURU,Ru Ru Jalbidhyut Pariyojana Limited,0,100,0,HydroPower
+CIT,Citizen Investment Trust,"4,500,036",100,"450,003,600.00",Investment
+HIDCL,Hydorelectricity Investment and Development Company Ltd,0,100,0,Investment
+NIFRA,Nepal Infrastructure Bank Limited,"200,000,000",100,"20,000,000,000.00",Investment
+NRN,NRN Infrastructure and Development Limited,0,100,0,Investment
+ALICL,Asian Life Insurance Co. Limited,"5,219,848",100,"521,984,800.00",Life Insurance
+GLICL,Gurans Life Insurance Company Ltd.,"4,999,919",100,"499,991,900.00",Life Insurance
+LICN,Life Insurance Co. Nepal,"6,581,250",100,"658,125,000.00",Life Insurance
+NLIC,Nepal Life Insurance Co. Ltd.,"10,837,500",100,"1,083,750,000.00",Life Insurance
+NLICL,National Life Insurance Co. Ltd.,"7,877,737",100,"787,773,700.00",Life Insurance
+PLIC,Prime Life Insurance Company Limited,"4,881,600",100,"488,160,000.00",Life Insurance
+SLICL,Surya Life Insurance Company Limited,"5,000,174",100,"500,017,400.00",Life Insurance
+JLI,Jyoti Life Insurance Company Limited,0,100,0,Life Insurance
+RLI,Reliance Life Insurance Company Limited,0,100,0,Life Insurance
+PLI,Prabhu Life Insurance Limited,0,100,0,Life Insurance
+BNL,Bottlers Nepal (Balaju) Limited,"1,948,887",100,"194,888,700.00",Manufacturing and Processing
+BNT,Bottlers Nepal (Terai) Limited,"1,210,000",100,"121,000,000.00",Manufacturing and Processing
+HDL,Himalayan Distillery Limited,"4,130,000",100,"413,000,000.00",Manufacturing and Processing
+NLO,Nepal Lube Oil Limited,"244,723",100,"24,472,300.00",Manufacturing and Processing
+RJM,Shree Raghupati Jute Mills Limited,"1,806,966",100,"180,696,600.00",Manufacturing and Processing
+UNL,Unilever Nepal Limited,"920,700",100,"92,070,000.00",Manufacturing and Processing
+BJM,Biratnagar Jute Mills Limited,"68,750",160,"11,000,000.00",Manufacturing and Processing
+HTL,Himgiri Textile Industries Limited,"480,000",100,"48,000,000.00",Manufacturing and Processing
+MSM,Morang Sugar Mills Limited,"35,827",100,"3,582,700.00",Manufacturing and Processing
+SHIVM,SHIVAM CEMENTS LTD,0,100,0,Manufacturing and Processing
+CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,"8,340,710",100,"834,071,000.00",Microfinance
+DDBL,Deprosc Laghubitta Bittiya Sanstha Limited,"1,719,492",100,"171,949,200.00",Microfinance
+FMDBL,First Micro Finance Laghubitta Bittiya Sanstha Ltd.,"1,000,000",100,"100,000,000.00",Microfinance
+KMCDB,Kalika Laghubitta Bittiya Sanstha Limited,"500,000",100,"50,000,000.00",Microfinance
+NLBBL,Nerude Laghubita Bikas Bank Limited,"1,250,003",100,"125,000,300.00",Microfinance
+NUBL,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,"3,358,604",100,"335,860,400.00",Microfinance
+RMDC,RMDC Laghubitta Bittiya Sanstha Limited,"5,200,000",100,"520,000,000.00",Microfinance
+SKBBL,Sana Kisan Bikas Laghubitta Bittiya sanstha Limited.,"2,300,000",100,"230,000,000.00",Microfinance
+SLBBL,Swarojgar Laghubitta Bittiya Sanstha Ltd.,"200,000",100,"20,000,000.00",Microfinance
+SMFDB,Summit Laghubitta Bittiya Sanstha Ltd.,"352,800",100,"35,280,000.00",Microfinance
+SWBBL,Swabalamban Laghubitta Bittiya Sanstha Limited,"2,187,750",100,"218,775,000.00",Microfinance
+MLBBL,Mithila Laghubitta Bittiya Sanstha Ltd.,"282,900",100,"28,290,000.00",Microfinance
+LLBS,Laxmi Laghubitta Bittiya Sanstha Ltd.,"1,000,000",100,"100,000,000.00",Microfinance
+MMFDB,Mirmire Laghubitta Bittiya Sanstha Ltd.,0,100,0,Microfinance
+JSLBB,Janautthan Samudayic Laghubitta Bikas Bank Ltd.,0,100,0,Microfinance
+WOMI,Womi Microfinance Bittiya Sanstha Ltd.,0,0,0,Microfinance
+VLBS,Vijaya laghubitta Bittiya Sanstha Ltd.,0,100,0,Microfinance
+RSDC,RSDC Laghubitta Bittiya Sanstha Ltd.,0,100,0,Microfinance
+NMBMF,NMB Laghubitta Bittiya Sanstha Ltd.,0,100,0,Microfinance
+MERO,Meromicrofinance Laghubitta Bittiya Sanstha Ltd.,0,100,0,Microfinance
+ALBSL,Asha Laghubitta Bittiya Sanstha Ltd,0,100,0,Microfinance
+NMFBS,National Microfinance Laghubitta Bittiya Sanstha Ltd.,0,100,0,Microfinance
+SLBS,Suryodaya Laghubitta Bittiya Sanstha Ltd.,0,100,0,Microfinance
+GMFBS,Ganapati Microfinance Bittiya Sanstha Ltd,0,100,0,Microfinance
+CLBSL,Civil Laghubitta Bittiya Sanstha Ltd.,0,100,0,Microfinance
+ILBS,Infinity Laghubitta Bittiya Sanstha Limited,0,100,0,Microfinance
+FOWAD,Forward Microfinance Laghubitta Bittiya Sanstha Ltd.,0,100,0,Microfinance
+SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,0,100,0,Microfinance
+MSLB,Mahuli Laghubitta Bittiya Sanstha Ltd.,0,100,0,Microfinance
+GILB,Global IME Laghubitta Bittiya Sanstha Ltd.,0,100,0,Microfinance
+SMB,Support Microfinance Bittiya Sanstha Ltd.,0,100,0,Microfinance
+GBLBS,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,0,100,0,Microfinance
+MLBSL,Mahila Laghubitta Bittiya Sanstha Limited,0,100,0,Microfinance
+GLBSL,Gurans Laghubitta Bittiya Sanstha Limited,0,100,0,Microfinance
+NICLBSL,NIC Asia Laghubitta Biitiya Sanstha Limited,0,0,0,Microfinance
+SLBSL,Samudayik Laghubitta Bittiya Sanstha Limited,0,100,0,Microfinance
+SDLBSL,Sadhana Laghubitta Bittiya Sanstha Limited,0,100,0,Microfinance
+SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Ltd,0,100,0,Microfinance
+SABSL,SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED,0,100,0,Microfinance
+ACLBSL,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,0,100,0,Microfinance
+USLB,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,0,100,0,Microfinance
+SNLB,Sarathi Nepal Laghubitta Bittiya Sanstha Limited,0,100,0,Microfinance
+KLBSL,Kisan Lagubitta Bittiya Sanstha Limited,0,100,0,Microfinance
+MEROPO,Meromicrofinance Laghubitta Bittiya Sanstha Limited Promoter Share,0,0,0,Microfinance
+EIC,Everest Insurance Co. Ltd.,"1,012,500",100,"101,250,000.00",Non-life Insurance
+HGI,Himalayan General Insurance Co. Ltd,"2,500,042",100,"250,004,200.00",Non-life Insurance
+LGIL,Lumbini General Insurance Co. Ltd.,"2,661,339",100,"266,133,900.00",Non-life Insurance
+NICL,Nepal Insurance Co. Ltd.,"2,634,948",100,"263,494,800.00",Non-life Insurance
+NIL,Neco Insurance Co. Ltd.,"1,352,216",100,"135,221,600.00",Non-life Insurance
+NLG,NLG Insurance Company Ltd.,"2,475,000",100,"247,500,000.00",Non-life Insurance
+PIC,Premier Insurance Co. Ltd.,"1,173,000",100,"117,300,000.00",Non-life Insurance
+PICL,Prudential Insurance Co. Ltd.,"2,700,000",100,"270,000,000.00",Non-life Insurance
+SIC,Sagarmatha Insurance Co. Ltd.,"3,100,381",100,"310,038,100.00",Non-life Insurance
+SICL,Shikhar Insurance Co. Ltd.,"2,975,000",100,"297,500,000.00",Non-life Insurance
+SIL,Siddhartha Insurance Ltd.,"2,508,000",100,"250,800,000.00",Non-life Insurance
+UIC,United Insurance Co. (Nepal) Ltd.,"600,000",100,"60,000,000.00",Non-life Insurance
+PRIN,Prabhu Insurance Ltd.,0,100,0,Non-life Insurance
+RBCL,Rastriya Beema Company Limited,0,100,0,Non-life Insurance
+IGI,IME General Insurance Ltd.,0,100,0,Non-life Insurance
+AIL,AJOD Insurance Limited,0,100,0,Non-life Insurance
+SGI,Sanima General Insurance Company Limited,0,100,0,Non-life Insurance
+GIC,General Insurance Company Limited,0,100,0,Non-life Insurance
+NTC,Nepal Doorsanchar Comapany Limited,"150,000,000",100,"15,000,000,000.00",Others
+NRIC,Nepal Re-Insurance Company Limited,0,100,0,Others
+BBC,Bishal Bazar Company Limited,"491,400",100,"49,140,000.00",Tradings
+STC,Salt Trading Corporation,0,100,0,Tradings
